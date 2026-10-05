@@ -1,7 +1,7 @@
 {
  "repository": "gkiri/tiny_repo",
  "source": "gkiri/tiny-ai-courses",
- "commit": "05eedfdf16cb324d7571698e7adeed2c2ef24cbe",
+ "commit": "7dd2fcffdf5299973355536ee6e4861253ac739e",
  "generator": "tools/labs/publish.py",
  "files": {
   "tiny-llm/data/PHYLL_CHATS.md": {
@@ -40,8 +40,8 @@
   },
   "tiny-llm/notebooks/L14-train-your-own.ipynb": {
    "source": "content/courses/tiny-llm/notebooks/L14-train-your-own.ipynb",
-   "sha256": "e4f7abcfa7c6e16f2fc28b4a72b0a9457dff717748e07103df442e6c15a51661",
-   "bytes": 37725
+   "sha256": "f7d38f7ac0942aefe82d44b2ff6df7dc7bbcc166787d6bc88ad7691f33fd6c5d",
+   "bytes": 140430
   },
   "tiny-llm/requirements.txt": {
    "source": "content/courses/tiny-llm/notebooks/requirements.txt",

@@ -13,7 +13,7 @@ model to an `outputs/` folder. Open it in Colab, sign in with your Google accoun
 | Course | Model | Data | Time | Open |
 |---|---|---|---|---|
 | Tiny Transformer | our tiny transformer, 9,417 numbers | Tiny Shakespeare, 1.1 MB | about 1 min (quick) · about 21 min (full), CPU, measured on the course's server | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gkiri/tiny_repo/blob/main/tiny-transformer/notebooks/T8-train-your-own.ipynb) |
-| Tiny LLM (Phyll) | Phyll, the cactus chat model, 8,726,016 numbers | Phyll's 217,798 chats, 11 MB gzipped | about 35 min (quick, 2,000 steps), CPU, measured on the course's server · use a T4 GPU; Phyll's own 18,000 steps took about 3.3 h on that CPU | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gkiri/tiny_repo/blob/main/tiny-llm/notebooks/L14-train-your-own.ipynb) |
+| Tiny LLM (Phyll) | Phyll, the cactus chat model, 8,726,016 numbers | Phyll's 217,798 chats, 11 MB gzipped | about 25 min (quick, 2,000 steps), CPU, measured on the course's server · use a T4 GPU; the full 18,000 steps are not timed (Phyll's own two runs took about 3.3 h on that CPU) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gkiri/tiny_repo/blob/main/tiny-llm/notebooks/L14-train-your-own.ipynb) |
 | Tiny ViT, Tiny VLM | later | | | |
 
 ## Tiny Transformer
