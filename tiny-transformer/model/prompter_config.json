@@ -1,0 +1,14 @@
+{
+ "model": "the Prompter",
+ "architecture": "one-block character transformer (pre-LayerNorm, GELU, tied readout with its own bias); training/prompter/model.py",
+ "reference": "the \"10k\" configuration of https://github.com/maxpolaczuk/tiny-character-transformer (no licence: nothing copied, the architecture re-implemented)",
+ "config": {"vocab_size": 65, "block_size": 32, "d_model": 28, "n_head": 2, "d_ff": 56, "n_layer": 1},
+ "params": 9417,
+ "recipe": {"optimizer": "AdamW (PyTorch defaults besides lr)", "lr": 0.003, "min_lr": 0.0003, "warmup": 200, "schedule": "cosine",
+            "max_steps": 100000, "batch_size": 64, "eval_every": 500, "eval_batches": 100, "patience": 20,
+            "seed": 1337, "eval_seed": 2024, "threads": 4, "init_std": 0.02},
+ "data": {"name": "Tiny Shakespeare", "file": "data/tinyshakespeare.txt",
+          "sha256": "86c4e6aa9db7c042ec79f339dcb96d42b0075e16b8fc2e86bf0ca57e2dc565ed",
+          "split": "first 90% train, last 10% validation (contiguous)"},
+ "reference_result": {"best_val": 1.9538, "note": "the reference's reported best validation loss for this configuration, on its own evaluation; ours is scored on the whole validation text"}
+}

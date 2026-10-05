@@ -1,0 +1,6 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+# what T8 writes when you run it locally
+outputs/
+my-tiny-transformer.zip

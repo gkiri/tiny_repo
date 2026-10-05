@@ -1,0 +1,6 @@
+# The train-it-yourself notebook (T8-train-your-own.ipynb): lower bounds only, so Google Colab keeps its preinstalled versions.
+# The recorded run prompter-r1 used torch 2.10.0, numpy 2.2.6 and matplotlib 3.10.8
+# (content/courses/tiny-transformer/notebooks/requirements.txt pins them for an exact local setup).
+torch>=2.1
+numpy>=1.24
+matplotlib>=3.7

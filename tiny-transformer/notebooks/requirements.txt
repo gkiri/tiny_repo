@@ -1,0 +1,8 @@
+# The Tiny Transformer notebooks (docs/BEGINNER-STANDARD.md §5), pinned as the course runs them (Python 3.12, CPU).
+# In Google Colab the preinstalled versions also work: skip this file there.
+torch==2.10.0
+tokenizers==0.22.2
+numpy==2.2.6
+jupyter==1.1.1
+ipykernel==7.4.0
+matplotlib==3.10.8
