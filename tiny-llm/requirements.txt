@@ -1,0 +1,5 @@
+# Lesson 14's train-it-yourself notebook (L14-train-your-own.ipynb): lower bounds only, so Google Colab keeps its preinstalled
+# versions. The course's server ran it with torch 2.10.0, tokenizers 0.22.2 and matplotlib 3.10.8.
+torch>=2.1
+tokenizers>=0.15
+matplotlib>=3.7

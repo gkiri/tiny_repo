@@ -13,7 +13,7 @@ model to an `outputs/` folder. Open it in Colab, sign in with your Google accoun
 | Course | Model | Data | Time | Open |
 |---|---|---|---|---|
 | Tiny Transformer | our tiny transformer, 9,417 numbers | Tiny Shakespeare, 1.1 MB | about 1 min (quick) · about 21 min (full), CPU, measured on the course's server | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gkiri/tiny_repo/blob/main/tiny-transformer/notebooks/T8-train-your-own.ipynb) |
-| Tiny LLM (Phyll) | coming next | | | |
+| Tiny LLM (Phyll) | Phyll, the cactus chat model, 8,726,016 numbers | Phyll's 217,798 chats, 11 MB gzipped | about 35 min (quick, 2,000 steps), CPU, measured on the course's server · use a T4 GPU; Phyll's own 18,000 steps took about 3.3 h on that CPU | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gkiri/tiny_repo/blob/main/tiny-llm/notebooks/L14-train-your-own.ipynb) |
 | Tiny ViT, Tiny VLM | later | | | |
 
 ## Tiny Transformer
@@ -108,6 +108,11 @@ jupyter notebook
 - `tiny-transformer/data/tinyshakespeare.txt`: Tiny Shakespeare (from karpathy/char-rnn; the plays are in the public domain)
   and its datasheet.
 - `tiny-transformer/data/garden-notes/`: the Garden Notes generator, its fixed splits and its datasheet.
+- `tiny-llm/notebooks/L14-train-your-own.ipynb`: train your own Phyll, the Tiny LLM courses' cactus (Lesson 14 of the
+  Advanced course), with `tiny-llm/requirements.txt`.
+- `tiny-llm/data/`: Phyll's chats (`train.jsonl.gz`, `eval.jsonl.gz`), its tokenizer and their datasheet (`PHYLL_CHATS.md`).
+- `tiny-llm/model/`: `model.py`, Phyll's model code, and `phyll-record.json`, Phyll's recorded training and the finished
+  Phyll's scores, which the notebook draws your run against.
 - `MANIFEST.json`: every file's sha256 and the course commit it was published from.
 
 ## Licences

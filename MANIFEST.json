@@ -1,9 +1,53 @@
 {
  "repository": "gkiri/tiny_repo",
  "source": "gkiri/tiny-ai-courses",
- "commit": "a3a37f4dac89552cffb64a8b8fb4fb1ecd421429",
+ "commit": "05eedfdf16cb324d7571698e7adeed2c2ef24cbe",
  "generator": "tools/labs/publish.py",
  "files": {
+  "tiny-llm/data/PHYLL_CHATS.md": {
+   "source": "content/courses/tiny-llm/notebooks/PHYLL_CHATS.md",
+   "sha256": "9dcf94b26108705c2ffd3c67e2f6b90177ae3d3c25014eb63fa843e0f9afa497",
+   "bytes": 2363
+  },
+  "tiny-llm/data/eval.jsonl.gz": {
+   "source": "phyll_data:build/m9/data/eval.jsonl",
+   "source_sha256": "2de01f198296c93eeb5589d91e0fbb65625027f52c070875536a4ed1bd3cb43e",
+   "sha256": "081347768e9e0828cb8a260eb8880b6645dcf2f715dc85b2120ddb8f575c11f6",
+   "bytes": 459122,
+   "gzip": true
+  },
+  "tiny-llm/data/tokenizer.json": {
+   "source": "src/specimen/lessons/data/tokenizer.json",
+   "sha256": "5816f3083451d11028d0861201853d5305c741ff863c111b6c5ca667c9db5b53",
+   "bytes": 271528
+  },
+  "tiny-llm/data/train.jsonl.gz": {
+   "source": "phyll_data:build/m9/data/train.jsonl",
+   "source_sha256": "8802d43a204ae59ac44c8e3aea145d8ee6247ee18755e084aa1130fdb5d7b659",
+   "sha256": "2f23ceeebc00470a13916b47897149f54189e7a51e3219a97f360a31355b218f",
+   "bytes": 10903292,
+   "gzip": true
+  },
+  "tiny-llm/model/model.py": {
+   "source": "content/courses/tiny-llm/code/model.py",
+   "sha256": "217e27a97722d678c42b6d565ab703e604c76bc2f28d449adefeb0c1f781476b",
+   "bytes": 4620
+  },
+  "tiny-llm/model/phyll-record.json": {
+   "source": "content/courses/tiny-llm/notebooks/phyll-record.json",
+   "sha256": "5d40814c5d5778e6d55ad87e9c2060cc66ff241e09e4bd30aeee164e7ba8d24d",
+   "bytes": 2958
+  },
+  "tiny-llm/notebooks/L14-train-your-own.ipynb": {
+   "source": "content/courses/tiny-llm/notebooks/L14-train-your-own.ipynb",
+   "sha256": "e4f7abcfa7c6e16f2fc28b4a72b0a9457dff717748e07103df442e6c15a51661",
+   "bytes": 37725
+  },
+  "tiny-llm/requirements.txt": {
+   "source": "content/courses/tiny-llm/notebooks/requirements.txt",
+   "sha256": "0a5d8f41189429154b7ff9ff1210a6c2e3da0f66c1ddb60a1189fb2cbdb7a02a",
+   "bytes": 270
+  },
   "tiny-transformer/data/TINY_SHAKESPEARE.md": {
    "source": "training/prompter/DATASHEET.md",
    "sha256": "b56b0cc61e7fdaeb97ec6101e844997662b9deee3d722c1938d221d61840f1d4",
