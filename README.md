@@ -6,13 +6,13 @@ Google Colab from the links below, or runs on your own computer.
 
 ## Train it yourself
 
-One notebook per course trains the course's own model with the course's own recipe, top to bottom: set up, download the data,
-train, watch the loss and accuracy, evaluate, make it write, and save the trained model to an `outputs/` folder. Open it in
-Colab, sign in with your Google account, and choose **Runtime → Run all**.
+One notebook per course trains the course's own model with the course's own recipe, top to bottom, in short sections a
+beginner can read: set up, get the data, the model, train, watch it learn, how good is it, make it write, and save the trained
+model to an `outputs/` folder. Open it in Colab, sign in with your Google account, and choose **Runtime → Run all**.
 
 | Course | Model | Data | Time | Open |
 |---|---|---|---|---|
-| Tiny Transformer | our tiny transformer, 9,417 numbers | Tiny Shakespeare, 1.1 MB | about 1 min (quick) · 16–20 min (full), CPU | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gkiri/tiny_repo/blob/main/tiny-transformer/notebooks/T8-train-your-own.ipynb) |
+| Tiny Transformer | our tiny transformer, 9,417 numbers | Tiny Shakespeare, 1.1 MB | about 1 min (quick) · about 21 min (full), CPU, measured on the course's server | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gkiri/tiny_repo/blob/main/tiny-transformer/notebooks/T8-train-your-own.ipynb) |
 | Tiny LLM (Phyll) | coming next | | | |
 | Tiny ViT, Tiny VLM | later | | | |
 
