@@ -1,6 +1,6 @@
 # Data, model numbers and prose
 
-The Garden Notes data and its generator's output, our tiny transformer's and Sprout's trained numbers (`prompter.json`, `sprout.json`),
+Our tiny transformer's trained numbers (`prompter.json`),
 Phyll's chats and tokenizer (`tiny-llm/data/`), the recorded tables and records (`phyll-record.json`), and the prose
 of the notebooks and documents in this repository are licensed under the Creative Commons Attribution 4.0 International licence
 (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/

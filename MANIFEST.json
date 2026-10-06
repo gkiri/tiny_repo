@@ -1,7 +1,7 @@
 {
  "repository": "gkiri/tiny_repo",
  "source": "gkiri/tiny-ai-courses",
- "commit": "6f9b20bd0bdb41de3d02fa6f6808dc510e645a69",
+ "commit": "f129cb6c62c99d8835ee1b2e7de2a59edac95671",
  "generator": "tools/labs/publish.py",
  "files": {
   "tiny-llm/data/PHYLL_CHATS.md": {
@@ -53,50 +53,15 @@
    "sha256": "b56b0cc61e7fdaeb97ec6101e844997662b9deee3d722c1938d221d61840f1d4",
    "bytes": 1399
   },
-  "tiny-transformer/data/garden-notes/DATASHEET.md": {
-   "source": "training/tiny-transformer/DATASHEET.md",
-   "sha256": "92c7510f7690bde2c9f422d98492f69e4d82b59a46908b5dd62c22ca3e59d46e",
-   "bytes": 10464
-  },
-  "tiny-transformer/data/garden-notes/garden_notes.py": {
-   "source": "training/tiny-transformer/garden_notes.py",
-   "sha256": "408bca5cf0ecd8b4f5e1a77bddcf945c7e5b856978c6a3822acbcda3acbf335b",
-   "bytes": 17728
-  },
-  "tiny-transformer/data/garden-notes/splits.json": {
-   "source": "training/tiny-transformer/data/splits.json",
-   "sha256": "49b8019dfd5484d1e8df21fc142023cd258e19a54c68d3d4fadcad354b21af10",
-   "bytes": 1824
-  },
-  "tiny-transformer/data/garden-notes/sprout_tokenizer.py": {
-   "source": "training/tiny-transformer/sprout_tokenizer.py",
-   "sha256": "63c6c8fd19cb5c26d0d0c8df7a1a43c469bda5c8c3904beb69ccf495e0dcf50c",
-   "bytes": 2204
-  },
   "tiny-transformer/data/tinyshakespeare.txt": {
    "source": "training/prompter/data/tinyshakespeare.txt",
    "sha256": "86c4e6aa9db7c042ec79f339dcb96d42b0075e16b8fc2e86bf0ca57e2dc565ed",
    "bytes": 1115394
   },
-  "tiny-transformer/model/MODEL_CARD.md": {
-   "source": "training/tiny-transformer/MODEL_CARD.md",
-   "sha256": "31e4fb4abe8829260174bf7d9b38f2b5df7df55a932688eeb55c57e3e19a542a",
-   "bytes": 5914
-  },
   "tiny-transformer/model/PROMPTER_MODEL_CARD.md": {
    "source": "training/prompter/MODEL_CARD.md",
    "sha256": "d9b5da3a22a1924789dfdfc0753e5445171d7a03479ad1e0a76d40d7431db611",
    "bytes": 2184
-  },
-  "tiny-transformer/model/config.json": {
-   "source": "training/tiny-transformer/config.json",
-   "sha256": "5082ba6c82f66c1e9f16e8763eeb479a49ea85908f988d8cb0c42c957f86e56d",
-   "bytes": 3646
-  },
-  "tiny-transformer/model/model.py": {
-   "source": "content/courses/tiny-llm/code/model.py",
-   "sha256": "217e27a97722d678c42b6d565ab703e604c76bc2f28d449adefeb0c1f781476b",
-   "bytes": 4620
   },
   "tiny-transformer/model/prompter-r1-train.json": {
    "source": "training/prompter/results/prompter-r1/train.json",
@@ -118,55 +83,45 @@
    "sha256": "14398a8271bffb63eed266158569b40d65d7167ea31762e8cd0b55bdd4ce9912",
    "bytes": 6759
   },
-  "tiny-transformer/model/sprout.json": {
-   "source": "src/specimen/tiny-transformer/data/sprout.json",
-   "sha256": "b7206075b344d96a95dce1a3b023fd48f36c50dddd8cc610dce7a050e66aba86",
-   "bytes": 124332
-  },
-  "tiny-transformer/model/sprout_tokenizer.py": {
-   "source": "training/tiny-transformer/sprout_tokenizer.py",
-   "sha256": "63c6c8fd19cb5c26d0d0c8df7a1a43c469bda5c8c3904beb69ccf495e0dcf50c",
-   "bytes": 2204
-  },
   "tiny-transformer/notebooks/F0-whole-machine.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/F0-whole-machine.ipynb",
-   "sha256": "48dd551bd7a70480bfa0d2e9812b6c9d57a0c7483feccee83882b237278ea024",
-   "bytes": 45043
+   "sha256": "7ba37aca85fe5c221533da08591196daf8125b501636fc7d3d98015f6e0900ad",
+   "bytes": 45041
   },
   "tiny-transformer/notebooks/F1-counting.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/F1-counting.ipynb",
-   "sha256": "551910d9f9094a24b9c1648504a43296b63e09603f97675995b00579dcb115e0",
-   "bytes": 39676
+   "sha256": "bfb3189c4c482d33ef5c1ab1529c9515f2cea098f19cc050cd56911bd4c9cfd2",
+   "bytes": 39674
   },
   "tiny-transformer/notebooks/M1-training-data.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/M1-training-data.ipynb",
-   "sha256": "86730ab4644b28a46e9087de2a72a503462779412921610723c2c370783a1452",
-   "bytes": 51626
+   "sha256": "9f8d97080de6421d9124c62db0d6ac8b1b78f897981e8860721c58ed61e3dc2e",
+   "bytes": 51624
   },
   "tiny-transformer/notebooks/M2-inside-embeddings.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/M2-inside-embeddings.ipynb",
-   "sha256": "39e33510d46dabfc86ec41ebc63a34127f85a5091c5f84720afb9ea59bbe8647",
-   "bytes": 46406
+   "sha256": "bd85692940cd10323fdc1e7a57535d3e1cf34b87810685d4d0e6aa0126c587e7",
+   "bytes": 46404
   },
   "tiny-transformer/notebooks/M3-inside-attention.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/M3-inside-attention.ipynb",
-   "sha256": "9653d35d99d2f4dd498200eba903da8b6b8bddff5a0e2e7e3cd9d92bd385cdf5",
-   "bytes": 45126
+   "sha256": "45e2aa1f1df492c44c81771da6179f939092705fd77c933a29cd96e98ac6475a",
+   "bytes": 45124
   },
   "tiny-transformer/notebooks/M4-inside-feed-forward.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/M4-inside-feed-forward.ipynb",
-   "sha256": "de8ab741eba63b337cb805a9fbfe7c2a4964256666502159577a504822513d68",
-   "bytes": 46161
+   "sha256": "cb83b96a5c14dd6b6bea12e0cbb5622001c4e0c7b5baf4e74076a6de56835b63",
+   "bytes": 46159
   },
   "tiny-transformer/notebooks/M5-inside-readout.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/M5-inside-readout.ipynb",
-   "sha256": "1b40f24ab06caf14254eb39d52a0cd31a4f7ac2b194574f0cb3934695153b4f0",
-   "bytes": 46608
+   "sha256": "73abfc89b35048db0027dc15e58ec8178fdf98d7dab8cf65a4be4020826ca70d",
+   "bytes": 46606
   },
   "tiny-transformer/notebooks/M6-training-loop.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/M6-training-loop.ipynb",
-   "sha256": "6ae7d4972a1f7a71b909569d756741bf59b5e0452526c004b8e84d2db0e72aaf",
-   "bytes": 51215
+   "sha256": "2e99cbc1eae6659d32fadadad5bedbf6ac75b3d95cc6eae961cdb217271ad985",
+   "bytes": 51213
   },
   "tiny-transformer/notebooks/P0-python-classes.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/P0-python-classes.ipynb",
@@ -255,8 +210,8 @@
   },
   "tiny-transformer/notebooks/P1-pytorch-capstone.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/P1-pytorch-capstone.ipynb",
-   "sha256": "1ff7f98ec61f28e3730472f6d60dbba9b6a7c8fbf05b0e8994f7ef6f3b2ccebe",
-   "bytes": 81630
+   "sha256": "ce9b39dbd6e4fd07e0ab1af8f10c33547bf7a1366e2d83303c996e40aea7144f",
+   "bytes": 81390
   },
   "tiny-transformer/notebooks/P1-pytorch-embeddings.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/P1-pytorch-embeddings.ipynb",
@@ -315,8 +270,8 @@
   },
   "tiny-transformer/notebooks/P1-pytorch.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/P1-pytorch.ipynb",
-   "sha256": "8d5ca70ca1b5d33ce5082fc2f5859954a67186275633a0a22a30fd8cee65bb6e",
-   "bytes": 791654
+   "sha256": "609d9f98af2a883c702105668badb38eee87bca49c98adbb151c4e00f5ca49dd",
+   "bytes": 791398
   },
   "tiny-transformer/notebooks/P2-math-attention.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/P2-math-attention.ipynb",
@@ -410,8 +365,8 @@
   },
   "tiny-transformer/notebooks/T7-training-progress.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/T7-training-progress.ipynb",
-   "sha256": "edf8520d56976cfaa1d3824bbc7c4ac70601519398eecf5a3815b58da0c51b78",
-   "bytes": 221251
+   "sha256": "07ed0e76155c1eabba7917fe7d46b040fe1de032723dc3b856c431a218dadb3d",
+   "bytes": 217009
   },
   "tiny-transformer/notebooks/T8-train-your-own.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/T8-train-your-own.ipynb",

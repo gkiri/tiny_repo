@@ -18,10 +18,9 @@ model to an `outputs/` folder. Open it in Colab, sign in with your Google accoun
 
 ## Tiny Transformer
 
-Unit 1 is a tour of one real model: **our tiny transformer**, 9,417 learned numbers trained on *Tiny Shakespeare*. It reads up
-to 32 characters and gives a probability to each of the 65 characters that could come next. The notebooks run it, open it part
-by part with every tensor's shape, and train it. (Units 3 and later still use Sprout, the course's earlier model, until they
-move over.)
+The course is about one real model: **our tiny transformer**, 9,417 learned numbers trained on *Tiny Shakespeare*. It reads
+up to 32 characters and gives a probability to each of the 65 characters that could come next. The notebooks run it, open it
+part by part with every tensor's shape, and train it.
 
 | Episode | | Open |
 |---|---|---|
@@ -41,19 +40,19 @@ move over.)
 | P2.12 · Learning updates and the complete calculation | unit 0, optional | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gkiri/tiny_repo/blob/main/tiny-transformer/notebooks/P2-math-updates.ipynb) |
 | F0 · The big picture: text in, next character out | unit 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gkiri/tiny_repo/blob/main/tiny-transformer/notebooks/F0-whole-machine.ipynb) |
 | M1 · The data and the goal | unit 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gkiri/tiny_repo/blob/main/tiny-transformer/notebooks/M1-training-data.ipynb) |
+| F1 · Optional: the baseline to beat, counting pairs | unit 1, optional | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gkiri/tiny_repo/blob/main/tiny-transformer/notebooks/F1-counting.ipynb) |
 | M2 · Inside the machine 1: characters become vectors | unit 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gkiri/tiny_repo/blob/main/tiny-transformer/notebooks/M2-inside-embeddings.ipynb) |
 | M3 · Inside the machine 2: self-attention and two heads | unit 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gkiri/tiny_repo/blob/main/tiny-transformer/notebooks/M3-inside-attention.ipynb) |
 | M4 · Inside the machine 3: feed-forward and the residual add | unit 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gkiri/tiny_repo/blob/main/tiny-transformer/notebooks/M4-inside-feed-forward.ipynb) |
 | M5 · Inside the machine 4: from vectors to the next character | unit 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gkiri/tiny_repo/blob/main/tiny-transformer/notebooks/M5-inside-readout.ipynb) |
 | M6 · How training works | unit 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gkiri/tiny_repo/blob/main/tiny-transformer/notebooks/M6-training-loop.ipynb) |
-| F1 · Optional: the baseline to beat, counting pairs | unit 1, optional | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gkiri/tiny_repo/blob/main/tiny-transformer/notebooks/F1-counting.ipynb) |
 | T1 · From text to training batches | unit 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gkiri/tiny_repo/blob/main/tiny-transformer/notebooks/T1-training-batches.ipynb) |
 | T2 · From logits to one loss | unit 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gkiri/tiny_repo/blob/main/tiny-transformer/notebooks/T2-training-objective.ipynb) |
 | T3 · How backpropagation finds gradients | unit 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gkiri/tiny_repo/blob/main/tiny-transformer/notebooks/T3-training-gradients.ipynb) |
 | T4 · How AdamW changes parameters | unit 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gkiri/tiny_repo/blob/main/tiny-transformer/notebooks/T4-training-optimizer.ipynb) |
 | T5 · Assemble the training loop | unit 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gkiri/tiny_repo/blob/main/tiny-transformer/notebooks/T5-training-step.ipynb) |
 | T6 · Measure what the model learns | unit 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gkiri/tiny_repo/blob/main/tiny-transformer/notebooks/T6-training-metrics.ipynb) |
-| T7 · Watch it learn, then train it yourself | unit 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gkiri/tiny_repo/blob/main/tiny-transformer/notebooks/T7-training-progress.ipynb) |
+| T7 · Watch it learn | unit 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gkiri/tiny_repo/blob/main/tiny-transformer/notebooks/T7-training-progress.ipynb) |
 | T8 · Train your own tiny transformer | unit 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gkiri/tiny_repo/blob/main/tiny-transformer/notebooks/T8-train-your-own.ipynb) |
 | P0.1 · Read, run, inspect | unit 0, optional | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gkiri/tiny_repo/blob/main/tiny-transformer/notebooks/P0-python-runtime.ipynb) |
 | P0.2 · Text, positions, and slices | unit 0, optional | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gkiri/tiny_repo/blob/main/tiny-transformer/notebooks/P0-python-text.ipynb) |
@@ -103,11 +102,9 @@ jupyter notebook
 - `tiny-transformer/requirements.txt`: what T8 installs (lower bounds; Colab's preinstalled versions satisfy them).
   `tiny-transformer/notebooks/requirements.txt` pins the exact versions the course ran.
 - `tiny-transformer/model/`: our tiny transformer's trained numbers (`prompter.json`, run prompter-r1), its `prompter_model.py`, config,
-  model card and the run's training log (`prompter-r1-train.json`, the curve T8 draws yours against); Sprout's trained numbers (`sprout.json`, run sprout-r1), its tokenizer, its config and model card,
-  and `model.py`, the model code it shares with Phyll, the Advanced course's model.
+  model card and the run's training log (`prompter-r1-train.json`, the curve T8 draws yours against).
 - `tiny-transformer/data/tinyshakespeare.txt`: Tiny Shakespeare (from karpathy/char-rnn; the plays are in the public domain)
   and its datasheet.
-- `tiny-transformer/data/garden-notes/`: the Garden Notes generator, its fixed splits and its datasheet.
 - `tiny-llm/notebooks/L14-train-your-own.ipynb`: train your own Phyll, the Tiny LLM courses' cactus (Lesson 14 of the
   Advanced course), with `tiny-llm/requirements.txt`.
 - `tiny-llm/data/`: Phyll's chats (`train.jsonl.gz`, `eval.jsonl.gz`), its tokenizer and their datasheet (`PHYLL_CHATS.md`).
