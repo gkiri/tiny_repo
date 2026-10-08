@@ -1,7 +1,7 @@
 {
  "repository": "gkiri/tiny_repo",
  "source": "gkiri/tiny-ai-courses",
- "commit": "3d79dc186eaf8a94a9aaa3f4ed6790d7d5c740b7",
+ "commit": "d568e1a1b8fbd6236f6ed3c06e2a08f7ed8acc5f",
  "generator": "tools/labs/publish.py",
  "files": {
   "tiny-llm/data/PHYLL_CHATS.md": {
@@ -180,98 +180,98 @@
   },
   "tiny-transformer/notebooks/P1-pytorch-attention.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/P1-pytorch-attention.ipynb",
-   "sha256": "0f92161bd6aaba2454cbc691cd00ddec1d9ddbee6fd96d1df67a45ec5580b1f1",
-   "bytes": 57819
+   "sha256": "65eb13a226720bcfe234c903e332dfffe02590f19c49ef9e37e465d0f9777ff9",
+   "bytes": 57847
   },
   "tiny-transformer/notebooks/P1-pytorch-autograd.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/P1-pytorch-autograd.ipynb",
-   "sha256": "72a32f8ff658406af44dcac78e7740cb920706de2bc39d774e0283df64e499c0",
-   "bytes": 53707
+   "sha256": "7d01c186dca70aeaff0a9e9ecbed704daa68e8badff61ecb2e55d4eeae3f9843",
+   "bytes": 53735
   },
   "tiny-transformer/notebooks/P1-pytorch-axes.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/P1-pytorch-axes.ipynb",
-   "sha256": "5e36ef60dce632e627836163103b1d2fa20794a150ca3aa893b57d294433d03a",
-   "bytes": 54200
+   "sha256": "36401905ef297cae69a85dddd633998b8ce8940ba3d0728cc2af72c1f4386714",
+   "bytes": 54224
   },
   "tiny-transformer/notebooks/P1-pytorch-batches.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/P1-pytorch-batches.ipynb",
-   "sha256": "6e2d37fd4ebec6b0da64bba4ceeda2c28b3f263e516caa1408edcdbcc3f3281d",
-   "bytes": 54385
+   "sha256": "1fe153758745790d863bfbdcd26ecac0689a3f5c079ad4591f9820c71c5ddf25",
+   "bytes": 54409
   },
   "tiny-transformer/notebooks/P1-pytorch-blocks.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/P1-pytorch-blocks.ipynb",
-   "sha256": "34cbdd3c14d375465241227e656ee05436f7b472b6e1efe5121c4b7f5174684d",
-   "bytes": 53805
+   "sha256": "0dbb05d4d19a21cc237997881f0164e4661f8d97f84426a0fbb2609edb53f6f8",
+   "bytes": 53833
   },
   "tiny-transformer/notebooks/P1-pytorch-broadcasting.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/P1-pytorch-broadcasting.ipynb",
-   "sha256": "1f92bb3848257bfc9937b3241a19a7a766fcd9e8745c94445dfc595249bd1742",
-   "bytes": 54578
+   "sha256": "bb87a6f6225b0348d560615b1e7f65cff14bb1858eb4c82d52e493dd2542b64a",
+   "bytes": 54602
   },
   "tiny-transformer/notebooks/P1-pytorch-capstone.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/P1-pytorch-capstone.ipynb",
-   "sha256": "ce9b39dbd6e4fd07e0ab1af8f10c33547bf7a1366e2d83303c996e40aea7144f",
-   "bytes": 81390
+   "sha256": "8e7a1a34c7fe55c83dc7aae559c1e4e2406391e8dbd4c70ab0e358eb9ac3b6be",
+   "bytes": 81418
   },
   "tiny-transformer/notebooks/P1-pytorch-embeddings.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/P1-pytorch-embeddings.ipynb",
-   "sha256": "bbd6ac5d9d4cd71ccaadac271436e0ae60021edc1d887827a12bb9afe093b35b",
-   "bytes": 52723
+   "sha256": "ef8789b0791309ec036dd51bc31ba5488e6836dd9d2ae18d31c92bde95cb7062",
+   "bytes": 52747
   },
   "tiny-transformer/notebooks/P1-pytorch-generation.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/P1-pytorch-generation.ipynb",
-   "sha256": "5c814eb07547dd78e327f3f66160c4bad650d1626977a11e50cb80f85e0549ae",
-   "bytes": 40672
+   "sha256": "5309f091cce1f01f7cd59c8ee7b62d3c454e8e52f8af75d5e0c46eee7b40306b",
+   "bytes": 40700
   },
   "tiny-transformer/notebooks/P1-pytorch-indexing.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/P1-pytorch-indexing.ipynb",
-   "sha256": "671c9e5856e1a801fa2a51871ce1f2a6559b0cec99d501eca852ea28d69a81d6",
-   "bytes": 53547
+   "sha256": "de7369da01e3e8a8eeeb55a3c6b82cb4ccbc8053e68046d5a14db454582d6636",
+   "bytes": 53571
   },
   "tiny-transformer/notebooks/P1-pytorch-loss.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/P1-pytorch-loss.ipynb",
-   "sha256": "984ad2cbe70a07c279f77bb07317e1e7fb55ef8007a1022f009e05b98dd64818",
-   "bytes": 55003
+   "sha256": "ceb08c803013e4745789388f61b7137d54f0d4e5658f2600507a4c060ca7071b",
+   "bytes": 55031
   },
   "tiny-transformer/notebooks/P1-pytorch-matmul.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/P1-pytorch-matmul.ipynb",
-   "sha256": "df7001daf5878a1c3d02357b2747f08a77f42501c62b273b73cdb5f9c1dc8bac",
-   "bytes": 53288
+   "sha256": "6f8cc40752360f8ccc2256bda879c20b4215d2472cb555178cf45cdbc34b7a6e",
+   "bytes": 53312
   },
   "tiny-transformer/notebooks/P1-pytorch-modes.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/P1-pytorch-modes.ipynb",
-   "sha256": "574ab6fff34990a26b5375edc197c0717ddd420ea01ea6168b89d3577cb7ac87",
-   "bytes": 20375
+   "sha256": "a218134abed2300ce30151fedd23ac52c02959de83226589d2a265c3bdef4232",
+   "bytes": 20403
   },
   "tiny-transformer/notebooks/P1-pytorch-modules.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/P1-pytorch-modules.ipynb",
-   "sha256": "821b06aa28b6b7ce35e5e097d9e36558fcb35fac461418dabefac0fc351387e2",
-   "bytes": 20520
+   "sha256": "2b81f55189e8dd34520a2f4204a5a576895f47163386f9a01c8f14b78fe20f49",
+   "bytes": 20548
   },
   "tiny-transformer/notebooks/P1-pytorch-reductions.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/P1-pytorch-reductions.ipynb",
-   "sha256": "98d7069ee24d806575bd37a13ece7010c8671ea4250b8d198e5ad9344324d06e",
-   "bytes": 51738
+   "sha256": "0bb612ebc04bf4464db3b531551d17eacdd03c9f8b96592a2f9b2dbe6394f5c5",
+   "bytes": 51762
   },
   "tiny-transformer/notebooks/P1-pytorch-reshape.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/P1-pytorch-reshape.ipynb",
-   "sha256": "7e52bb7659c0a5819cdf851f03b7ada7502465bd601e73213b8fd595c410f383",
-   "bytes": 54565
+   "sha256": "1ae6c64887643e2e9734fb62429874c19f92f9b5dbe19ccca40561b415019818",
+   "bytes": 54589
   },
   "tiny-transformer/notebooks/P1-pytorch-step.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/P1-pytorch-step.ipynb",
-   "sha256": "b61a1fd6d6a9e4e44fb30954df7d218045195fe40f3847e0cb6a7de3ede87e1d",
-   "bytes": 52965
+   "sha256": "61358dfe1477f787b0f019034ec94b5745e38750564b8c5526c3dfd047eeac71",
+   "bytes": 52993
   },
   "tiny-transformer/notebooks/P1-pytorch-tensors.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/P1-pytorch-tensors.ipynb",
-   "sha256": "974e9a9956eee06bc7ed920a7c2b2755bcefc2174fbdc74d540493e4b271c673",
-   "bytes": 18512
+   "sha256": "17ab3db07c2fbe033dbca0cc4ad5174ab39a14c66131db229b49a29c4092738b",
+   "bytes": 18536
   },
   "tiny-transformer/notebooks/P1-pytorch.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/P1-pytorch.ipynb",
-   "sha256": "609d9f98af2a883c702105668badb38eee87bca49c98adbb151c4e00f5ca49dd",
-   "bytes": 791398
+   "sha256": "6c8ead22b65cb7f7a2bc0a8e226454f4d5f1543ecc9fa066933431b06dfa7b1c",
+   "bytes": 793908
   },
   "tiny-transformer/notebooks/P2-math-attention.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/P2-math-attention.ipynb",
