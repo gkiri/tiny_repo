@@ -1,7 +1,7 @@
 {
  "repository": "gkiri/tiny_repo",
  "source": "gkiri/tiny-ai-courses",
- "commit": "f129cb6c62c99d8835ee1b2e7de2a59edac95671",
+ "commit": "3d79dc186eaf8a94a9aaa3f4ed6790d7d5c740b7",
  "generator": "tools/labs/publish.py",
  "files": {
   "tiny-llm/data/PHYLL_CHATS.md": {
@@ -125,58 +125,58 @@
   },
   "tiny-transformer/notebooks/P0-python-classes.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/P0-python-classes.ipynb",
-   "sha256": "f3c3f37588fed8758a0bb14e332ecc1b8942842810ecfa29f065cc82a141bdff",
-   "bytes": 17967
+   "sha256": "6026b1208aac514f709863936c61ffe9a2326105cedfbceb798376c2d3932909",
+   "bytes": 17991
   },
   "tiny-transformer/notebooks/P0-python-containers.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/P0-python-containers.ipynb",
-   "sha256": "dd0b904dddf54c71bfd6495c4b07b1e9a05af5729f33232a6b1b3c8c3901e9b5",
-   "bytes": 18505
+   "sha256": "78c87b3aef8ccc8eca34311da741bb4fb4b49293bdc3b1b192b8a172ab0408fd",
+   "bytes": 18529
   },
   "tiny-transformer/notebooks/P0-python-files.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/P0-python-files.ipynb",
-   "sha256": "3cb04b6a904f44d416c9ed1ddd5c6b93187804b493bfb0b8407a2cb5f5e69510",
-   "bytes": 18778
+   "sha256": "6053548dfec1ccf87da329b3c484a9469620b5ad762ba9084981b242ff5ad415",
+   "bytes": 18802
   },
   "tiny-transformer/notebooks/P0-python-functions.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/P0-python-functions.ipynb",
-   "sha256": "2e570c4194894b1375b9495a045c601694b9c45603af6c16890f7ecfb5874b04",
-   "bytes": 18997
+   "sha256": "8f26eeeea8a6c1b85c8ec55866d8ae2ec22ffdb37b975985582b556757646b1b",
+   "bytes": 19021
   },
   "tiny-transformer/notebooks/P0-python-iteration.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/P0-python-iteration.ipynb",
-   "sha256": "9274ab9f394cfac14322d02fbf7ba350db93d6da0685302594be11d92d801f24",
-   "bytes": 19330
+   "sha256": "ee21b4f8449701f4141100f5210764e84de97da674555d5aa8f00c6848b4c72b",
+   "bytes": 19354
   },
   "tiny-transformer/notebooks/P0-python-model-python.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/P0-python-model-python.ipynb",
-   "sha256": "b497c23fc99bf178752a07296f54dc289c2446b41d491c63c030974197b7f8d9",
-   "bytes": 18749
+   "sha256": "33c0c121e1ddd7d1c0e609db15ff4d2c98250991b90e53492db23e0956518da5",
+   "bytes": 18773
   },
   "tiny-transformer/notebooks/P0-python-pipeline.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/P0-python-pipeline.ipynb",
-   "sha256": "a889e6bbba73ec84ee3308f572846fd3eb7dd717cddce5404e5a9575970d5e2b",
-   "bytes": 19560
+   "sha256": "3e60beb8901692628ac3db0cce1ff52b04924148703ca2e48907e104d799623c",
+   "bytes": 19588
   },
   "tiny-transformer/notebooks/P0-python-runtime.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/P0-python-runtime.ipynb",
-   "sha256": "718fbd6187647428ccaf7ab1efb86894d665769d3f74ba723a6b53f16799d2b7",
-   "bytes": 17525
+   "sha256": "37efb417bd69fd815afef37a64e8dc99690d9ab59bd8df215378ab4d4217a4cb",
+   "bytes": 17549
   },
   "tiny-transformer/notebooks/P0-python-text.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/P0-python-text.ipynb",
-   "sha256": "6d596c894d7baf5f69ea1bee6bd349d9e0daef1e1a029b32014e9a85ae05ea3e",
-   "bytes": 18667
+   "sha256": "e4a5461c1429c3495451a7660500b7df8183b7b2170942e9081cf2087bc0d835",
+   "bytes": 18691
   },
   "tiny-transformer/notebooks/P0-python-vocabulary.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/P0-python-vocabulary.ipynb",
-   "sha256": "b1a66a840f42aba4a63277c94ed61ecce7b7ce721816746beabaf75defaaab47",
-   "bytes": 17698
+   "sha256": "11140001b05c8b4011c0d40fb9762a7be3d45761e51cd32277fe07bb6e5fea95",
+   "bytes": 17722
   },
   "tiny-transformer/notebooks/P0-python.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/P0-python.ipynb",
-   "sha256": "875c7b7c2359d85b0fb2ba5e5844b051957f4891ab930c3189fc80d5464724ee",
-   "bytes": 140197
+   "sha256": "0a6142fc784883454121ac52e43dd22842616086fc20c2a3e70f43d543739ebd",
+   "bytes": 141736
   },
   "tiny-transformer/notebooks/P1-pytorch-attention.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/P1-pytorch-attention.ipynb",
