@@ -1,7 +1,7 @@
 {
  "repository": "gkiri/tiny_repo",
  "source": "gkiri/tiny-ai-courses",
- "commit": "0cc68ec5d6b7e04aca8aeb0866b63d010c14939b",
+ "commit": "fec6d8d8d74852fe308ac4936bf508953c6a6dec",
  "generator": "tools/labs/publish.py",
  "files": {
   "tiny-llm/data/PHYLL_CHATS.md": {
@@ -85,8 +85,8 @@
   },
   "tiny-transformer/notebooks/F0-whole-machine.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/F0-whole-machine.ipynb",
-   "sha256": "7ba37aca85fe5c221533da08591196daf8125b501636fc7d3d98015f6e0900ad",
-   "bytes": 45041
+   "sha256": "1143188e00e65d43076d8d12f8bbe90b1590076a83ee949693a551554234807e",
+   "bytes": 60381
   },
   "tiny-transformer/notebooks/F1-counting.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/F1-counting.ipynb",
