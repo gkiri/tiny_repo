@@ -1,7 +1,7 @@
 {
  "repository": "gkiri/tiny_repo",
  "source": "gkiri/tiny-ai-courses",
- "commit": "fec6d8d8d74852fe308ac4936bf508953c6a6dec",
+ "commit": "d3f4882f0a7f4ca20b52f72f53d0326c51d5fbbc",
  "generator": "tools/labs/publish.py",
  "files": {
   "tiny-llm/data/PHYLL_CHATS.md": {
@@ -85,8 +85,8 @@
   },
   "tiny-transformer/notebooks/F0-whole-machine.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/F0-whole-machine.ipynb",
-   "sha256": "1143188e00e65d43076d8d12f8bbe90b1590076a83ee949693a551554234807e",
-   "bytes": 60381
+   "sha256": "bb8fb5105351e679bfcc8b6a3c17872dae923962942dc3d51b5b4d3bed64724e",
+   "bytes": 60479
   },
   "tiny-transformer/notebooks/F1-counting.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/F1-counting.ipynb",
@@ -95,8 +95,8 @@
   },
   "tiny-transformer/notebooks/M1-training-data.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/M1-training-data.ipynb",
-   "sha256": "9f8d97080de6421d9124c62db0d6ac8b1b78f897981e8860721c58ed61e3dc2e",
-   "bytes": 51624
+   "sha256": "684cc2d347feb891a4e54abb74f3d2fb62dc45628ebf7ceed3a893c65bbe6061",
+   "bytes": 68880
   },
   "tiny-transformer/notebooks/M2-inside-embeddings.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/M2-inside-embeddings.ipynb",
