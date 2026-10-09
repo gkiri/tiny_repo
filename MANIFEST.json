@@ -1,7 +1,7 @@
 {
  "repository": "gkiri/tiny_repo",
  "source": "gkiri/tiny-ai-courses",
- "commit": "cf24cb4b2b4661d06ba98101161a046597d17b9f",
+ "commit": "1c5742e6e546ac1ccce94f7b801240769331b76a",
  "generator": "tools/labs/publish.py",
  "files": {
   "tiny-llm/data/PHYLL_CHATS.md": {
@@ -120,8 +120,8 @@
   },
   "tiny-transformer/notebooks/M6-training-loop.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/M6-training-loop.ipynb",
-   "sha256": "2e99cbc1eae6659d32fadadad5bedbf6ac75b3d95cc6eae961cdb217271ad985",
-   "bytes": 51213
+   "sha256": "837649d225a7d9919accfecb21e8c57acb6511421180a3b77ee3955db68df0a9",
+   "bytes": 69778
   },
   "tiny-transformer/notebooks/P0-python-classes.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/P0-python-classes.ipynb",
