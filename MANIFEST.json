@@ -1,7 +1,7 @@
 {
  "repository": "gkiri/tiny_repo",
  "source": "gkiri/tiny-ai-courses",
- "commit": "eb1873a39b4e7af1e395e9b3002b80d91f564aa5",
+ "commit": "cf24cb4b2b4661d06ba98101161a046597d17b9f",
  "generator": "tools/labs/publish.py",
  "files": {
   "tiny-llm/data/PHYLL_CHATS.md": {
@@ -110,13 +110,13 @@
   },
   "tiny-transformer/notebooks/M4-inside-feed-forward.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/M4-inside-feed-forward.ipynb",
-   "sha256": "b56ce5a691b02b2c1f5c3149665a920af92b3fda38c5a58ef8cdc16b9fde499d",
-   "bytes": 57619
+   "sha256": "066c3749b935933067ff6f5c3e536338029167789089ed5772939f90b7a8e52f",
+   "bytes": 57627
   },
   "tiny-transformer/notebooks/M5-inside-readout.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/M5-inside-readout.ipynb",
-   "sha256": "73abfc89b35048db0027dc15e58ec8178fdf98d7dab8cf65a4be4020826ca70d",
-   "bytes": 46606
+   "sha256": "d9ac2d9b09356461aebefb93859ca785582d9fce864b581635d46d9146e84a1a",
+   "bytes": 59455
   },
   "tiny-transformer/notebooks/M6-training-loop.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/M6-training-loop.ipynb",
