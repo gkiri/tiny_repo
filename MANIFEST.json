@@ -1,7 +1,7 @@
 {
  "repository": "gkiri/tiny_repo",
  "source": "gkiri/tiny-ai-courses",
- "commit": "80c8b007a52e1a01216bbfa495068b6b8b913a0b",
+ "commit": "4cd1749a5dd28465fb77f0be7359c88d74019632",
  "generator": "tools/labs/publish.py",
  "files": {
   "tiny-llm/data/PHYLL_CHATS.md": {
@@ -62,6 +62,11 @@
    "source": "training/prompter/MODEL_CARD.md",
    "sha256": "d9b5da3a22a1924789dfdfc0753e5445171d7a03479ad1e0a76d40d7431db611",
    "bytes": 2184
+  },
+  "tiny-transformer/model/prompter-r1-best.pt": {
+   "source": "training/prompter/results/prompter-r1/best.pt",
+   "sha256": "02c3f5172367fd0f616a27730310f637e43e7a9fa5674b1e61d39a8aa6fe2207",
+   "bytes": 42603
   },
   "tiny-transformer/model/prompter-r1-train.json": {
    "source": "training/prompter/results/prompter-r1/train.json",
@@ -335,28 +340,28 @@
   },
   "tiny-transformer/notebooks/T1-training-batches.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/T1-training-batches.ipynb",
-   "sha256": "335f2d74fd5927b9d1e8e6b2f998b40806b2abd1cb3290d9f5c052657e6d883e",
-   "bytes": 58126
+   "sha256": "19557616a3ebab5c0545d80711d2637a5702846bf8eb316ae69e510dcf360b5c",
+   "bytes": 61334
   },
   "tiny-transformer/notebooks/T2-training-objective.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/T2-training-objective.ipynb",
-   "sha256": "d48365dde59b6ce1df09d8e6106f13f17f34e4da02d152a170427989868bfb65",
-   "bytes": 57413
+   "sha256": "e09326fc44b5f7862d3508e2e4f5c657c93759085cc86ec8aec096615c21f838",
+   "bytes": 60621
   },
   "tiny-transformer/notebooks/T3-training-gradients.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/T3-training-gradients.ipynb",
-   "sha256": "443bd9945bdfc5fa2090c69bec9a0402b64059f1b0f99bf3fbeaebf20fb97b5f",
-   "bytes": 58712
+   "sha256": "b165eb23d2371c466d9a18230a39a1bc6d2831d50346a8742b459197042d87d9",
+   "bytes": 62007
   },
   "tiny-transformer/notebooks/T4-training-optimizer.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/T4-training-optimizer.ipynb",
-   "sha256": "325f48c8d54a4b01645fb6b47bd74fffed4d27a866185c7771abd1ff4a88f4a4",
-   "bytes": 66933
+   "sha256": "ef60a6b6030aa033ac2a6f53871a9af154a9b2622b7bfd5a00d024d46757f7dd",
+   "bytes": 70141
   },
   "tiny-transformer/notebooks/T5-training-step.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/T5-training-step.ipynb",
-   "sha256": "834804856748554c09f4b0bc48a52199ee6b3205e3d92164215a772ff41573bc",
-   "bytes": 216187
+   "sha256": "dabf8c5408c99e9724e45ad4337ed8819b2575d05d338520ebe8cb8805afbfdd",
+   "bytes": 65512
   },
   "tiny-transformer/notebooks/T6-training-metrics.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/T6-training-metrics.ipynb",

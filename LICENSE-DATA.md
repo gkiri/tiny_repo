@@ -1,6 +1,6 @@
 # Data, model numbers and prose
 
-Our tiny transformer's trained numbers (`prompter.json`),
+Our tiny transformer's trained numbers (`prompter.json`, `prompter-r1-best.pt`),
 Phyll's chats and tokenizer (`tiny-llm/data/`), the recorded tables and records (`phyll-record.json`), and the prose
 of the notebooks and documents in this repository are licensed under the Creative Commons Attribution 4.0 International licence
 (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/

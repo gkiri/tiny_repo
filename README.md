@@ -50,7 +50,7 @@ part by part with every tensor's shape, and train it.
 | T2 · One number to make small | unit 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gkiri/tiny_repo/blob/main/tiny-transformer/notebooks/T2-training-objective.ipynb) |
 | T3 · Who gets the blame | unit 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gkiri/tiny_repo/blob/main/tiny-transformer/notebooks/T3-training-gradients.ipynb) |
 | T4 · AdamW, step by step | unit 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gkiri/tiny_repo/blob/main/tiny-transformer/notebooks/T4-training-optimizer.ipynb) |
-| T5 · Assemble the training loop | unit 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gkiri/tiny_repo/blob/main/tiny-transformer/notebooks/T5-training-step.ipynb) |
+| T5 · The loop, as the run ran it | unit 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gkiri/tiny_repo/blob/main/tiny-transformer/notebooks/T5-training-step.ipynb) |
 | T6 · Measure what the model learns | unit 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gkiri/tiny_repo/blob/main/tiny-transformer/notebooks/T6-training-metrics.ipynb) |
 | T7 · Watch it learn | unit 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gkiri/tiny_repo/blob/main/tiny-transformer/notebooks/T7-training-progress.ipynb) |
 | T8 · Train your own tiny transformer | unit 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gkiri/tiny_repo/blob/main/tiny-transformer/notebooks/T8-train-your-own.ipynb) |
@@ -101,8 +101,9 @@ jupyter notebook
   train-it-yourself notebook.
 - `tiny-transformer/requirements.txt`: what T8 installs (lower bounds; Colab's preinstalled versions satisfy them).
   `tiny-transformer/notebooks/requirements.txt` pins the exact versions the course ran.
-- `tiny-transformer/model/`: our tiny transformer's trained numbers (`prompter.json`, run prompter-r1), its `prompter_model.py`, config,
-  model card and the run's training log (`prompter-r1-train.json`, the curve T8 draws yours against).
+- `tiny-transformer/model/`: our tiny transformer's trained numbers (`prompter.json`, run prompter-r1, and the file the run
+  saved them in, `prompter-r1-best.pt`, which T5 opens), its `prompter_model.py`, config, model card and the run's training log
+  (`prompter-r1-train.json`, the curve T8 draws yours against).
 - `tiny-transformer/data/tinyshakespeare.txt`: Tiny Shakespeare (from karpathy/char-rnn; the plays are in the public domain)
   and its datasheet.
 - `tiny-llm/notebooks/L14-train-your-own.ipynb`: train your own Phyll, the Tiny LLM courses' cactus (Lesson 14 of the
