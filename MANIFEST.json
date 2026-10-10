@@ -1,7 +1,7 @@
 {
  "repository": "gkiri/tiny_repo",
  "source": "gkiri/tiny-ai-courses",
- "commit": "2838a690d819537710129aec24c661dcd510e971",
+ "commit": "20c263af6ba45e79f6555aaa7ce2161021ae3f8b",
  "generator": "tools/labs/publish.py",
  "files": {
   "tiny-llm/data/PHYLL_CHATS.md": {
@@ -340,38 +340,38 @@
   },
   "tiny-transformer/notebooks/T1-training-batches.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/T1-training-batches.ipynb",
-   "sha256": "9ab5506c49046390827cd81b66a700a887fbc3c10fd263a3799fd94573a72313",
-   "bytes": 64680
+   "sha256": "954c5acd96257e597fd3a029b6a03e99d88c34b452dfbaca1eddbf09e61d0603",
+   "bytes": 67210
   },
   "tiny-transformer/notebooks/T2-training-objective.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/T2-training-objective.ipynb",
-   "sha256": "611a2602af6817bf83d74531c35c826951ab4660bf733ef96770fad3fc7e45fb",
-   "bytes": 63793
+   "sha256": "9a845c8cf3a6decf7a2d5cfdfa0e20e377a22d0715b3a83415e4bc5b3e6fee19",
+   "bytes": 66497
   },
   "tiny-transformer/notebooks/T3-training-gradients.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/T3-training-gradients.ipynb",
-   "sha256": "e386235478b1e0437cd6a08f78f71c94fda7ac4a1f4c605dc05165f5968cd3ac",
-   "bytes": 65092
+   "sha256": "093e8cebb44101364d98333a67ed65d9200505c571c666e05a36583f28089d21",
+   "bytes": 67796
   },
   "tiny-transformer/notebooks/T4-training-optimizer.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/T4-training-optimizer.ipynb",
-   "sha256": "26bb8247d40f6c755999ff0d11e8540baf94a107c4ae58431a3de0ef0602426e",
-   "bytes": 73313
+   "sha256": "6f59203e2c5bb96f4f60e0a8247433e195f5d427c4efbf59ae7529fcbfacca76",
+   "bytes": 76017
   },
   "tiny-transformer/notebooks/T5-training-step.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/T5-training-step.ipynb",
-   "sha256": "68c3a29d6d30d441efa6cf8f6d57254a798803f85038c892a655f27ee316003b",
-   "bytes": 68764
+   "sha256": "d5dfc2fc466a0648fd0c6f9c3a22f82444283985a4b821a332eedebbea1ff683",
+   "bytes": 71468
   },
   "tiny-transformer/notebooks/T6-training-metrics.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/T6-training-metrics.ipynb",
-   "sha256": "e4ccb66dbd52f3dc89b9137d895d97dfc2b9fc26696d9ec437ea6eb0f2a64a0d",
-   "bytes": 65888
+   "sha256": "060a189f8571a4b458796b4b7eb35d1b72480d96e170bf1f3c28193e0027d875",
+   "bytes": 68704
   },
   "tiny-transformer/notebooks/T7-training-progress.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/T7-training-progress.ipynb",
-   "sha256": "07ed0e76155c1eabba7917fe7d46b040fe1de032723dc3b856c431a218dadb3d",
-   "bytes": 217009
+   "sha256": "3b0221e74af5237a8ea44924c98b6344693ebc0071444ebd8a728e31a202f1f2",
+   "bytes": 66893
   },
   "tiny-transformer/notebooks/T8-train-your-own.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/T8-train-your-own.ipynb",
