@@ -1,7 +1,7 @@
 {
  "repository": "gkiri/tiny_repo",
  "source": "gkiri/tiny-ai-courses",
- "commit": "8229e8ec5aea923ce9e8eb1c8ab56ca39cccbbb8",
+ "commit": "8e0d756624abd3d8510a6bf707f40f3e6eff33aa",
  "generator": "tools/labs/publish.py",
  "files": {
   "tiny-llm/data/PHYLL_CHATS.md": {
@@ -335,13 +335,13 @@
   },
   "tiny-transformer/notebooks/T1-training-batches.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/T1-training-batches.ipynb",
-   "sha256": "bd9cfca064a7541c51529973fbb035bd8c33dd862693bdd6a81ab21fda4603f4",
-   "bytes": 44761
+   "sha256": "18b1b2fee969343f30d3df747f00cb9e60f1fca7212405b4e5943b20d95d2186",
+   "bytes": 48774
   },
   "tiny-transformer/notebooks/T2-training-objective.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/T2-training-objective.ipynb",
-   "sha256": "5645bd5cc360ead3869cf1691bb6f0556ff9aa6de2aef1a146876196345336fc",
-   "bytes": 218998
+   "sha256": "9ec0533baffb4f4fb4a6f3bb769f77288c6656bcd798ba12e39300e5dcd701bf",
+   "bytes": 48011
   },
   "tiny-transformer/notebooks/T3-training-gradients.ipynb": {
    "source": "content/courses/tiny-transformer/notebooks/T3-training-gradients.ipynb",
